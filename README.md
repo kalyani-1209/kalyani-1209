@@ -1,12 +1,21 @@
-- 👋 Hi, I’m @kalyani-1209
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# Hi, I'm Kalyani reddy 👋
 
-<!---
-kalyani-1209/kalyani-1209 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## Aspiring Data Scientist | Leveraging Analytics & Machine Learning to Drive Data-Driven Insights and Business Solutions
+
+## 🔧 Skills & Technologies
+- **Programming:** Python, SQL
+- **Machine Learning:** Scikit-learn, TensorFlow, PyTorch
+- **Data Science:** Pandas, NumPy, Matplotlib, Seaborn
+- **AI & Deep Learning:** NLP, Computer Vision, Reinforcement Learning
+
+## 🌱 Currently Learning
+- Advanced Deep Learning Techniques
+- MLOps and Model Deployment
+
+## 🎯 Future Goals
+- Build a portfolio of AI projects
+- Expand expertise in cloud-based AI solutions
+- Mentor aspiring data scientists and ML engineers
+
+Let's collaborate and build something amazing! 🚀
+
